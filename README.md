@@ -1,6 +1,6 @@
 # DrowDetect: Sistem Deteksi Fokus Berbasis Deep Learning secara Realtime
 
-** DrowDetect adalah sebuah program yang menggunakan teknologi Artificial Intelligence (AI) untuk mendeteksi ketidakfokusan saat beraktivitas. 
+**DrowDetect** adalah sebuah program yang menggunakan teknologi Artificial Intelligence (AI) untuk mendeteksi ketidakfokusan saat beraktivitas. 
 Program ini dapat mendeteksi penutupan mata, gerakan menguap, dan ketidakfokusan iris mata untuk membantu pengguna tetap fokus.
 
 ![DrowDetect](static/images/Mengantuk.jpg)
