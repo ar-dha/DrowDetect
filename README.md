@@ -25,7 +25,7 @@ Program ini dapat mendeteksi penutupan mata, gerakan menguap, dan ketidakfokusan
 - **Yawning Movement Detection**: Detects yawning movements as signs of lack of focus or fatigue.
 - **Iris Inattention Detection**: Analyzes changes in the iris to identify inattention and provide appropriate warnings.
   
-- ## Additional Features:
+## Additional Features:
 - **Audio Warnings**: Provides audio warnings based on the type of detected lack of focus.
 - **Warning Interval**: The iris inattention detection includes a warning interval to avoid unnecessary interruptions for the user and reduce the likelihood of false positives.
 - **Easy Integration**: The program can be easily integrated into existing applications or used as a standalone tool.
