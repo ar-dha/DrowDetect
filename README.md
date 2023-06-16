@@ -12,6 +12,7 @@ Program ini dapat mendeteksi penutupan mata, gerakan menguap, dan ketidakfokusan
 
 ## Fitur Tambahan:
 - **Peringatan Suara**: Memberikan peringatan suara sesuai dengan jenis ketidakfokusan yang terdeteksi.
+- **Jeda Peringatan**: Peringatan untuk deteksi ketidakfokusan iris mata telah diberikan jeda peringatan sehingga tidak akan mengganggu pengguna dan juga menurunkan kemungkinan false positive.
 - **Integrasi Mudah**: Program ini dapat diintegrasikan dengan mudah ke aplikasi yang sudah ada atau digunakan sebagai alat mandiri.
 - **Dukungan untuk Kamera**: Mendukung penggunaan kamera secara real-time untuk mendeteksi ketidakfokusan saat beraktivitas.
 ---
