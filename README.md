@@ -15,7 +15,9 @@ Program ini dapat mendeteksi penutupan mata, gerakan menguap, dan ketidakfokusan
 - **Integrasi Mudah**: Program ini dapat diintegrasikan dengan mudah ke aplikasi yang sudah ada atau digunakan sebagai alat mandiri.
 - **Dukungan untuk Kamera**: Mendukung penggunaan kamera dalam waktu nyata untuk mendeteksi ketidakfokusan saat beraktivitas.
 
+
 Kami mengundang kontribusi dan modifikasi dari komunitas untuk meningkatkan dan memperluas fungsionalitas DrowDetect. Silakan merujuk ke file README untuk petunjuk penggunaan dan kontribusi.
+
 
 **Catatan**: Program ini dikembangkan menggunakan teknologi Mediapipe dan OpenCV.
 
