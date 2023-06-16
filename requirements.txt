@@ -1,0 +1,6 @@
+mediapipe==0.9.3.0
+opencv_contrib_python==4.7.0.72
+opencv_python==4.7.0.72
+pyttsx3==2.90
+scipy==1.10.1
+Flask==2.3.2
