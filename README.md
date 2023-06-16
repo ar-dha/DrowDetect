@@ -32,8 +32,8 @@ Program ini dapat mendeteksi penutupan mata, gerakan menguap, dan ketidakfokusan
 - **Camera Support**: Supports real-time camera usage to detect lack of focus during activities.
 ---
 
-##### Kami mengundang kontribusi dan modifikasi dari komunitas untuk meningkatkan dan memperluas fungsionalitas DrowDetect.
-##### We invite contributions and modifications from the community to enhance and expand the functionality of DrowDetect.
+Kami mengundang kontribusi dan modifikasi dari komunitas untuk meningkatkan dan memperluas fungsionalitas DrowDetect.<br>
+We invite contributions and modifications from the community to enhance and expand the functionality of DrowDetect.<br><br>
 
 
 **Catatan**: Program ini merupakan bagian dari proyek akhir dalam program MSIB AI for StartUps 02.
