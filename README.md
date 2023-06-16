@@ -16,7 +16,7 @@ Program ini dapat mendeteksi penutupan mata, gerakan menguap, dan ketidakfokusan
 - **Dukungan untuk Kamera**: Mendukung penggunaan kamera dalam waktu nyata untuk mendeteksi ketidakfokusan saat beraktivitas.
 ---
 
-Program ini merupakan bagian dari proyek akhir program MSIB AI for StartUps 02.<br>
+Program ini merupakan bagian dari proyek akhir dalam program MSIB AI for StartUps 02.<br>
 Kami mengundang kontribusi dan modifikasi dari komunitas untuk meningkatkan dan memperluas fungsionalitas DrowDetect. 
 
 **Catatan**: Program ini dikembangkan menggunakan teknologi Mediapipe dan OpenCV.
