@@ -24,7 +24,7 @@ Program ini dapat mendeteksi penutupan mata, gerakan menguap, dan ketidakfokusan
 - **Eye Closure Detection**: Identifies when the user closes their eyes for an extended period of time.
 - **Yawning Movement Detection**: Detects yawning movements as signs of lack of focus or fatigue.
 - **Iris Inattention Detection**: Analyzes changes in the iris to identify inattention and provide appropriate warnings.
-- 
+  
 - ## Additional Features:
 - **Audio Warnings**: Provides audio warnings based on the type of detected lack of focus.
 - **Warning Interval**: The iris inattention detection includes a warning interval to avoid unnecessary interruptions for the user and reduce the likelihood of false positives.
@@ -32,7 +32,7 @@ Program ini dapat mendeteksi penutupan mata, gerakan menguap, dan ketidakfokusan
 - **Camera Support**: Supports real-time camera usage to detect lack of focus during activities.
 ---
 
-Kami mengundang kontribusi dan modifikasi dari komunitas untuk meningkatkan dan memperluas fungsionalitas DrowDetect. <br>
+Kami mengundang kontribusi dan modifikasi dari komunitas untuk meningkatkan dan memperluas fungsionalitas DrowDetect. <br><br>
 We invite contributions and modifications from the community to enhance and expand the functionality of DrowDetect.
 
 **Catatan**: Program ini merupakan bagian dari proyek akhir dalam program MSIB AI for StartUps 02.
