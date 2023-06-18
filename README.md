@@ -4,7 +4,7 @@
 **DrowDetect** adalah sebuah program yang menggunakan MediaPipe dan OpenCV untuk mendeteksi ketidakfokusan saat beraktivitas secara real-time. 
 Program ini dapat mendeteksi penutupan mata, gerakan menguap, dan ketidakfokusan iris mata untuk membantu pengguna tetap fokus.
 
-**DrowDetect** is a program that utilizes Mediapipe and OpenCV to detect lack of focus during activities in real-time. It can identify eye closures, yawning movements, and iris inattention to help users maintain focus.
+**DrowDetect** is a program that utilizes MediaPipe and OpenCV to detect lack of focus during activities in real-time. It can identify eye closures, yawning movements, and iris inattention to help users maintain focus.
 
 ![DrowDetect](static/images/Mengantuk.jpg)
 
