@@ -37,4 +37,4 @@ We invite contributions and modifications from the community to enhance and expa
 
 **Catatan**: Program ini merupakan bagian dari proyek akhir dalam "Artificial Intelligence for StartUps 02" yang merupakan program Magang dan Studi Independen Bersertifikat (MSIB) dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi.
 
-**Note**: This program is part of the final project in "Artificial Intelligence for StartUps 02", which is a Certified Internship and Independent Study Program by the Ministry of Education, Culture, Research, and Technology Republic of Indonesia.
+**Note**: This program is part of the final project in "Artificial Intelligence for StartUps 02", which is a Certified Internship and Independent Study Program (MSIB) by the Ministry of Education, Culture, Research, and Technology Republic of Indonesia.
